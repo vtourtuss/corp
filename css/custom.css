@@ -1,0 +1,31 @@
+.push-down{
+    margin-top: 50%;
+}
+
+/* Shared
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.button {
+    border-radius: 100px;
+  }
+
+  /* Values
+  –––––––––––––––––––––––––––––––––––––––––––––––––– */
+  .values {
+    background-image: url(bg.png);   
+    background-size: cover;
+    color: #fff;
+    padding-bottom: 5rem;
+  }
+  .value-multiplier {
+    margin-bottom: .5rem;
+    color: #11DFC7;
+  }
+  .value-heading {
+    margin-bottom: .3rem;
+  }
+  .value-description {
+    opacity: .8;
+    font-weight: 300;
+  }
+
+  
