@@ -16,7 +16,7 @@
   /* Values
   –––––––––––––––––––––––––––––––––––––––––––––––––– */
   .values {
-    background:#31b78a;   
+    background:#37b471;   
     background-size: cover;
     color: #fff;
     padding-top: 3rem;
@@ -24,7 +24,7 @@
   }
   .value-multiplier {
     margin-bottom: .5rem;
-    color: #11DFC7;
+    color: #37b471;
   }
   .value-heading {
     margin-bottom: .3rem;
