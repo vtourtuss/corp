@@ -71,6 +71,12 @@
 }
 
 
+a.whitelinks {
+  color: white; }
+a:hover.whitelinks {
+  color: white;}
+
+
 /* Bigger than 550 */
 @media (min-width: 550px) {
   .section {
